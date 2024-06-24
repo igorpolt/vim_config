@@ -1,5 +1,6 @@
 require('plugins')
 
+
 vim.g.mapleader = " "
 
 -- MOUSE
